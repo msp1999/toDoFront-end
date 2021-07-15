@@ -1,4 +1,4 @@
-Link to Backend repo : [HERE](https://github.com/arsh9806/invent-task-backend.git)
+Link to Backend repo : [HERE]()
 
 Set up you environment variables in .env file (Although project already has .env just in case)
 ## Available Scripts

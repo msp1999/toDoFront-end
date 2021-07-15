@@ -1,5 +1,7 @@
 Link to Backend repo : [HERE](https://github.com/msp1999/toDoBack-end)
 
+Live project : [HERE](https://todo-front-msp.herokuapp.com/todos)
+
 Set up you environment variables in .env file (Although project already has .env just in case)
 ## Available Scripts
 

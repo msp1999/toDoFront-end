@@ -1,0 +1,18 @@
+.size{
+    height: 15rem;
+    width: 15rem;
+}
+.checkbox {
+    margin-right: 10px;
+}
+
+.pill-green{
+    border: 1px solid #3eec6a60 !important;
+    border-radius: 200px;
+    padding: .2rem .5rem;
+}
+.pill-red{
+    border: 1px solid #ff243a85 !important;
+    border-radius: 200px;
+    padding: .2rem .5rem;
+}

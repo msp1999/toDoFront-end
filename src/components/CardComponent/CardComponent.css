@@ -1,0 +1,45 @@
+.CardComponent {
+
+}
+.icon:hover{
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    -o-transform: scale(1.2);
+}
+.delete-todo:hover {
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    -o-transform: scale(1.2);
+}
+.card-background{
+    background-color: rgba(0, 12, 1, 0.281) !important;
+    border: 1px solid rgba(255, 255, 255, 0.103) !important;
+    border-radius: .7rem !important;
+}
+.header-bg{
+    color: rgba(230, 230, 230, 0.9) !important;
+    background-color: transparent !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.103) !important;
+    font-weight: 700;
+    font-size: large;
+}
+
+.body-bg{
+    color: rgba(230, 230, 230, 0.6) !important;
+    background-color: transparent !important;
+}
+.footer-bg{
+    background-color: transparent !important;
+    border: none !important;
+}
+
+.text-red{
+    color: tomato;
+}
+.text-blue{
+    color: rgb(27, 145, 255);
+}

@@ -1,0 +1,14 @@
+.start-adding {
+    color: rgb(121, 121, 121);
+    font-family: "Yomogi";
+    text-align: center;
+}
+
+.background{
+    background-color: transparent !important;
+    width: auto !important;
+    color: rgb(24, 163, 255) !important;
+    font-size: large !important;
+    font-weight: 500 !important;
+}
+
